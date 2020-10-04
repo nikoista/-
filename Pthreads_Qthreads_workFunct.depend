@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1585506798 source:c:\users\wero\desktop\pthreads_qthreads_workfunct\main.c
+	<pthread.h>
+	<stdio.h>
+	<unistd.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<sys/time.h>
+
+1585614621 source:c:\users\wero\desktop\8\ensomatomena systhmata pramatikou xronou\pthreads_qthreads_workfunct\main.c
+	<pthread.h>
+	<stdio.h>
+	<unistd.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<sys/time.h>
+
+1601838861 source:c:\users\wero\desktop\pthreads_qthreads_workfunct_c\main.c
+	<pthread.h>
+	<string.h>
+	<stdio.h>
+	<unistd.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<sys/time.h>
+
+1601834143 source:c:\users\wero\desktop\pthreads_qthreads_workfunct_c\main1.c
+	<pthread.h>
+	<string.h>
+	<stdio.h>
+	<unistd.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<sys/time.h>
+
